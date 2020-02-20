@@ -1,4 +1,4 @@
-https://dev.azure.com/ashewhitedata/Project%20J/_apis/build/status/ashwhi06.AzurePipeLines?branchName=master
+
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
